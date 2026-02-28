@@ -9,7 +9,7 @@ Install Node -  https://nodejs.org/en/download
 ```
 
 
-In the terminal folder:
+In the folder's terminal:
 
 Install NPM
 ```
